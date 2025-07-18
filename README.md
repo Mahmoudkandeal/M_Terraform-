@@ -123,6 +123,6 @@ This approach ensures all backend provisioning is secure and fully automated wit
 
 ## 🖼️ Backend App Preview
 
-![BackEndApp](./flask_website/cuteblog-flask/static/BackEndApp.png)
+![BackEndApp](BackEndApp.png)
 
 
